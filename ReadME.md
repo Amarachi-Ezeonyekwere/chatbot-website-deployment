@@ -1,25 +1,26 @@
-#  Cloud & DevOps Portfolio Website  
+#  Cloud & DevOps Portfolio Website with Integrated Chatbot 
 
-This project is my **personal portfolio website**, built to showcase **Cloud Engineering, DevOps, and Automation projects**.  
+This project is my **personal portfolio website**, built to showcase **Cloud Engineering, DevOps, and Automation skills**. It is a static website with integrated chatbot, depoloyed on Github pages with custom domain setup (Namecheap).
+
 Beyond being a portfolio, the site is designed to **demonstrate how digital solutions can improve visibility, communication, and trust** in technical work.  
 
-It is live on **GitHub Pages**, easy to maintain with Git, and acts as a **practical example of deploying, updating, and automating web applications** skills directly tied to real-world DevOps and cloud roles.  
+Check Out The **Live website** here [visit website](https://www.cloudtechbyamara.online/)
 
 ---
 
-##  Business & Real-World Relevance  
+##  Business Relevance  
 
 - **Problem: Recruiters and teams often struggle to quickly understand what a candidate can deliver.**  
-  🔹 *Solution:* A **chatbot-driven portfolio** that provides instant, structured answers about my projects (e.g., monitoring, automation, cloud infra, linux).  
-  → Demonstrates how automation improves **self-service information sharing** (a concept used in customer support portals and internal engineering knowledge bases).  
+  🔹 *Solution:* I created a **chatbot-driven portfolio** that provides instant, structured answers about my projects (e.g., monitoring, automation, cloud infra, linux).  
+  → This demonstrates how automation improves **self-service information sharing** (a concept used in customer support portals and internal engineering knowledge bases).  
 
-- **Problem: Stakeholders want proof of hands-on work, not just words.**  
-  🔹 *Solution:* A **screenshot gallery** that visually documents project steps and results.  
-  → Mirrors how engineering teams use **dashboards and evidence-based reporting** to communicate results in business.  
+- **Problem: Hiring Managaers and Recruiters want proof of hands-on work, not just words.**  
+  🔹 *Solution:* I added a **screenshot gallery** that visually documents project steps and results.  
+  →  This mirrors how engineering teams use **dashboards and evidence-based reporting** to communicate results in business.  
 
-- **Problem: Updating technical content often requires complex pipelines.**  
-  🔹 *Solution:* Deployed on **GitHub Pages**, where any code push automatically reflects online.  
-  → Shows how Git-based workflows enable **continuous delivery of documentation and apps** with low overhead.  
+- **Problem: Updating technical content often requires complex pipelines and incures cost.**  
+  🔹 *Solution:* I deployed my website on **GitHub Pages**, where any code push automatically reflects online.  
+  → This shows how Git-based workflows enable **continuous delivery of documentation and apps** with low overhead.  
  
 
 ---
@@ -43,19 +44,41 @@ It is live on **GitHub Pages**, easy to maintain with Git, and acts as a **pract
 
 ---
 
+##  How I achieved this with Screenshots
+
+1. Pushed code base to my Github and enabled Git pages for hosting and continuous deployment.
+![gitpage](./Screenshot/git-pages.jpg)
+
+2. For Domain name customization and integration, I added an A-record and a CNAME record on NameCheap
+![domainmane](./Screenshot/namecheap.jpg)
+
+3. After the domain name is propagated, I enforced traffic encryption with the HTTPS for secure access.
+![HTTPSSecurity](./Screenshot/HTTPS.jpg)
+
+4. My page website is live and interactive.
+![websitewithchatbot](./Screenshot/web-page3.jpg)
+
+5. Webpage-Front View
+![webpage-front](./Screenshot/web-page.jpg)
+
+6. Webpage-Back View
+![webpage-back](./Screenshot/web-page2.jpg)
+
+
 ##  Setup & Deployment  
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<Amarachi-Ezeonyekwere>/<chatbot-website-deployemnt>.git
 ```
-
-### 2. Run Locally
-
+### 2. Navigate into the project
+```bash
+cd <chatbot-website-deployment>
+```
+### 3. Run Locally
 Open `index.html` in your browser.
 
-### 3. Deploy on GitHub Pages
+### 4. Deploy on GitHub Pages
 
 * Push changes:
 
@@ -78,43 +101,21 @@ This mirrors how businesses use **continuous deployment** to ship features faste
 
 ---
 
-##  Demo Screenshots
-
-Webpage-Front View
-![webpage-front](./Screenshot/web-page.jpg)
-
-Webpage-Back View
-![webpage-back](./Screenshot/web-page2.jpg)
-
-AI Chatbot Integration
-![AI-chatbot](./Screenshot/web-page3.jpg)
-
-Git Page
-![gitpage](./Screenshot/git-pages.jpg)
-
-
----
-
-
-##  License
-
-For personal showcase purposes only.
-You’re welcome to fork/adapt for your own learning journey.
-
-
 ##  Codebase Location
 The main website code is stored in the **`master`** branch.  
 
-[Click here to view the codebase](https://github.com/Amarachi-Ezeonyekwere/web-application-deployment/tree/master)
+[view the codebase](https://github.com/Amarachi-Ezeonyekwere/chatbot-website-deployement/tree/master)
 
 ⚠️ Important: If you are forking this project to work with the code,  
-please switch to the **`master` branch** `git checkout master`
+please switch to the **`master` branch** with `git checkout master`
 
- 
-
-This branch (`docs`) is for project documentation, explanations, and supporting files.
+The branch (`docs`) is for project documentation, explanations, and supporting files.
 
 
 ---
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-*Kindly note: This project is interative and ongoing,Thank you for reading!*
+---
+
+*Kindly note: This project is iterative and ongoing,Thank you for reading!*
