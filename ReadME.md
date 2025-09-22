@@ -4,21 +4,24 @@ This project is my **personal portfolio website**, built to showcase **Cloud Eng
 
 Beyond being a portfolio, the site is designed to **demonstrate how digital solutions can improve visibility, communication, and trust** in technical work.  
 
-Check Out The **Live website** here [visit website](https://www.cloudtechbyamara.online/)
+Check Out The **Live website** here [view website](https://www.cloudtechbyamara.online/)
 
 ---
 
 ##  Business Relevance  
 
-- **Problem: Recruiters and teams often struggle to quickly understand what a candidate can deliver.**  
+- **Problem: Recruiters and teams often struggle to quickly understand what a candidate can deliver.**
+
   🔹 *Solution:* I created a **chatbot-driven portfolio** that provides instant, structured answers about my projects (e.g., monitoring, automation, cloud infra, linux).  
   → This demonstrates how automation improves **self-service information sharing** (a concept used in customer support portals and internal engineering knowledge bases).  
 
-- **Problem: Hiring Managaers and Recruiters want proof of hands-on work, not just words.**  
+- **Problem: Hiring Managaers and Recruiters want proof of hands-on work, not just words.** 
+
   🔹 *Solution:* I added a **screenshot gallery** that visually documents project steps and results.  
   →  This mirrors how engineering teams use **dashboards and evidence-based reporting** to communicate results in business.  
 
 - **Problem: Updating technical content often requires complex pipelines and incures cost.**  
+
   🔹 *Solution:* I deployed my website on **GitHub Pages**, where any code push automatically reflects online.  
   → This shows how Git-based workflows enable **continuous delivery of documentation and apps** with low overhead.  
  
@@ -36,7 +39,7 @@ Check Out The **Live website** here [visit website](https://www.cloudtechbyamara
   Similar to how **compliance and IT teams use evidence reports**.  
 
 - **Responsive Design**  
-  Works across devices—important for **user-facing apps**.  
+  Works across devices important for **user-facing apps**.  
 
 - **GitHub Pages Deployment**  
   Zero-cost hosting with **built-in CI/CD pipeline** (Git push = live update).  
