@@ -68,6 +68,22 @@ Check Out The **Live website** here [view website](https://www.cloudtechbyamara.
 ![webpage-back](./Screenshot/web-page2.jpg)
 
 
+---
+
+##  Tech Stack
+
+- Frontend: HTML5, CSS3, JavaScript
+
+- Chatbot Integration: Embedded via JavaScript & API (custom integration)
+
+- Hosting: GitHub Pages (static hosting)
+
+- Domain Management: Namecheap (custom domain + DNS configuration)
+
+- Version Control: Git & GitHub (commit history, branching, repo management)
+
+---
+
 ##  Setup & Deployment  
 
 ### 1. Clone the Repository  
